@@ -41,4 +41,4 @@ Calculator app built with **Vite** and **TypeScript**, supporting basic arithmet
 
 ## 🌍 Live Demo  
 
-[View on Vercel](https://your-calculator-app.vercel.app/)
+[View on Vercel](https://typescript-calculator-seven.vercel.app/)
