@@ -37,7 +37,7 @@ Calculator app built with **Vite** and **TypeScript**, supporting basic arithmet
    ```
 
 4. **Open the app**  
-   Visit `http://localhost:3000` in your browser.
+   Visit `http://localhost:5173/` in your browser.
 
 ## 🌍 Live Demo  
 
