@@ -20,8 +20,8 @@ Calculator app built with **Vite** and **TypeScript**, supporting basic arithmet
 1. **Clone the repository**  
 
    ```bash
-   git clone https://github.com/yourusername/calculator-web-app.git
-   cd calculator-web-app
+   git clone https://github.com/BhaskarDeb2000/typescript-calculator.git
+   cd typescript-calculator
    ```
 
 2. **Install dependencies**  
